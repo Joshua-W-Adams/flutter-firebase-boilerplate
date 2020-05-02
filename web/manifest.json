@@ -1,11 +1,11 @@
 {
-    "name": "flutterfirebaseboilerplate",
-    "short_name": "flutterfirebaseboilerplate",
+    "name": "starter_architecture_flutter_firebase",
+    "short_name": "starter_architecture_flutter_firebase",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
