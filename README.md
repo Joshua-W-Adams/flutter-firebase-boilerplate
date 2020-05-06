@@ -58,6 +58,12 @@ export var firebaseConfig = {
 };
 ```
 
+7. Configure CI / CD
+
+    1. Go to https://codemagic.io/
+
+    2. Setup workflow for new project
+
 ## References
 
 This project borrows many ideas from the existing repository https://github.com/bizz84/starter_architecture_flutter_firebase with additions and modifications made to customise and improve functionality.
